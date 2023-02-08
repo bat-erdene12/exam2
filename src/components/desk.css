@@ -1,0 +1,13 @@
+h2{
+    font-size: 30px;
+    font-weight: 500;
+}
+img{
+    width: 30%;
+    height: 50%;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
